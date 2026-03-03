@@ -5,7 +5,7 @@
   ],
   "allow": [
     {
-      "discordId": "goobzin",
+      "discordId": "1458138000260337898",
       "hwid": "34EB-47AD"
     },
     {
@@ -13,4 +13,5 @@
       "hwids": ["HWID1", "HWID2"]
     }
   ]
+
 }
