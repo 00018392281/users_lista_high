@@ -1,0 +1,16 @@
+{
+  "kill_switch": false,
+  "deny": [
+    "bloqueado_discord_id"
+  ],
+  "allow": [
+    {
+      "discordId": "goobzin",
+      "hwid": "34EB-47AD"
+    },
+    {
+      "discordId": "user2_discord_id",
+      "hwids": ["HWID1", "HWID2"]
+    }
+  ]
+}
