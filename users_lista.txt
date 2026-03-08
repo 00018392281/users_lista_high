@@ -2,7 +2,8 @@
 "kill_switch": false,
 "deny": [],
 "allow": [
-{ "discordId": "1479199154293968939" }
+{ "discordId": "1458138000260337898" }
 ]
 }
+
 
