@@ -1,4 +1,4 @@
 "allow": [
-  { "hwid": "", "discordId": "" }
+  { "hwid": "34eb47ad", "discordId": "1458138000260337898" }
 ]
 
